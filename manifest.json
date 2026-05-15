@@ -1,0 +1,21 @@
+{
+  "Group": "Casleiov",
+  "Name": "WorldGen Collection",
+  "Version": "1.0.0",
+  "Description": "A collection of my work throughout my time with WorldGen V2.",
+  "Authors": [
+    {
+      "Name": "Casleiov",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": ">=0.5.0-pre <0.6.0",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

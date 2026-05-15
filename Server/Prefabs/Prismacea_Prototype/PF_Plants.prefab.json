@@ -1,0 +1,452 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -19,
+      "name": "Plant_Petals_Cyan"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -17,
+      "name": "Plant_Petals_Azure",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -15,
+      "name": "Plant_Fruit_Azure",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -11,
+      "name": "Plant_Seaweed_Winter_Short"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -9,
+      "name": "Plant_Seaweed_Winter_Blue"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -9,
+      "name": "Plant_Seaweed_Winter_Blue",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -7,
+      "name": "Plant_Crop_Mana3"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -7,
+      "name": "Plant_Crop_Mana3",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Flatcap_Blue"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Common_Blue"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Glowing_Blue"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Crop_Mana2"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Plant_Flower_Common_Cyan"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 9,
+      "name": "Plant_Flower_Bushy_Blue"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 9,
+      "name": "Plant_Flower_Bushy_Blue",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 11,
+      "name": "Plant_Flower_Orchid_Cyan"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 13,
+      "name": "Plant_Flower_Bushy_White"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 17,
+      "name": "Plant_Flower_Tall_Cyan"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 19,
+      "name": "Plant_Crop_Berry_Wet_Block",
+      "components": {
+        "Components": {
+          "FarmingBlock": {
+            "LastTickGameTime": "0001-01-05T12:00:00Z"
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "DpgF95AeREOCpfRsVU/XOA==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -15,
+      "name": "Plant_Petals_Yellow",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -11,
+      "name": "Plant_Seaweed_Arid_Short",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -9,
+      "name": "Plant_Seaweed_Arid_Tall"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -9,
+      "name": "Plant_Seaweed_Arid_Tall",
+      "filler": 1024
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -7,
+      "name": "Plant_Seaweed_Arid_Yellow"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -7,
+      "name": "Plant_Seaweed_Arid_Yellow",
+      "filler": 1024
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Shelve_Yellow"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 9,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 9,
+      "name": "Plant_Flower_Hemlock",
+      "filler": 1024
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 11,
+      "name": "Plant_Bramble_Dry_Sandthorn"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 13,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 17,
+      "name": "Plant_Bush_Arid",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 19,
+      "name": "Plant_Flower_Bushy_Yellow"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -19,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 19,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 19,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

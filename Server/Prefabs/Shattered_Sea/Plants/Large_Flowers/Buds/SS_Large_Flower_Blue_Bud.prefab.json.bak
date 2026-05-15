@@ -1,0 +1,216 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Blue",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Cloth_Roof_Green",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Blue",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Cloth_Roof_Blue",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Cloth_Roof_Green",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Cloth_Roof_Blue"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Cloth_Block_Wool_Green"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Crystal_Cyan_Block"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Block_Blue_Mycelium",
+      "rotation": 32
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Cloth_Roof_Green"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Cloth_Roof_Blue",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Cloth_Roof_Blue"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Cloth_Roof_Green",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Blue",
+      "rotation": 3
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Blue",
+      "rotation": 1
+    }
+  ],
+  "fluids": [
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

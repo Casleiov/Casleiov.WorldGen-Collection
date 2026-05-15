@@ -1,0 +1,66 @@
+{
+  "Conditions": {
+    "EnvironmentIds": [
+      "Env_SS_Surface"
+    ]
+  },
+  "MusicContainer": {
+    "Type": "Random",
+    "AudioCategory": "AudioCat_Music",
+    "Mode": "Random",
+    "LoopCount": 0,
+    "AvoidRepeatCount": 2,
+    "Children": [
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Oceans/ZO_Sungleam_Lagoon.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Oceans/ZO_Coral_Reefs.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AD_Bountiful_Harvest.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AD_Heros_Glade.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AD_Journeymans_Quest.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AD_Morning_Breeze.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AD_Sunrise_Of_Lutes.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AN_Aurora_Cascade.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AN_Reflection.ogg"
+      },
+      {
+        "Type": "SingleTrack",
+        "Track": "Music/Zone1/Z1AD_Short_Form_12.ogg"
+      }
+    ]
+  },
+  "AudioCategory": "AudioCat_Music",
+  "Priority": 20,
+  "AmbientBed": {
+    "Track": "Sounds/Environments/Zone1/Environments/Forest/Day/Moss/Emitters/Wind/Emit_Wind_Rustle_Leaves_Stereo_01.ogg",
+    "Volume": 3
+  },
+  "SoundEffect": {
+    "ReverbEffectId": "Rev_Plains_Fog",
+    "EqualizerEffectId": "EQ_Default"
+  }
+}

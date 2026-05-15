@@ -1,0 +1,227 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Red",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Cloth_Roof_Green",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Red_Flat"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Cloth_Roof_Red"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Cloth_Roof_Green",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Cloth_Roof_Red_Flat"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Cloth_Block_Wool_Green"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Seaweed_Arid_Red",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Seaweed_Arid_Red",
+      "filler": 1024
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Cloth_Roof_Green"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Cloth_Roof_Red_Flat"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Cloth_Roof_Red",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Cloth_Roof_Green",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Red_Flat"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Cloth_Roof_Red",
+      "rotation": 3
+    }
+  ],
+  "fluids": [
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}
