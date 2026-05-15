@@ -1,0 +1,155 @@
+{
+  "WaterTint": "#0094ff",
+  "SpawnDensity": 0.5,
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Prismacea_Sunny",
+        "Weight": 100
+      }
+    ]
+  },
+  "Tags": {
+    "Starstruck_FIelds": [
+      "Starstruck_Fields"
+    ]
+  }
+}
